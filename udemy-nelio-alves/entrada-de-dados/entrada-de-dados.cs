@@ -24,25 +24,28 @@
 
 
 // PARTE 2 DA AULA DE ENTRADA DE DADOS:
-System.Console.Write("Digite a idade: ");
+System.Console.Write("Digite a idade: "); // input idade
 int n1 = int.Parse(Console.ReadLine());
-System.Console.Write("Digite o Sexo: ");
+
+System.Console.Write("Digite o Sexo: "); // input sexo
 char ch = char.Parse(Console.ReadLine());
-System.Console.Write("Digite a altura: ");
+
+System.Console.Write("Digite a altura: "); // input altura
 double dbl = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-//Aqui é apenas um teste para checar se a conversão funcionou
-// System.Console.WriteLine($"Você digitou: {n1} {ch} {dbl.ToString(CultureInfo.InvariantCulture)}");
-System.Console.Write("Digite o nome: ");
+System.Console.Write("Digite o nome: "); // input nome
 string nm = Console.ReadLine();
 
+//Aqui eu unifico tudo em uma string, faço um Split nela e atribuo à uma uma variável vetorial, para praticar
 string[] vet = $"{nm} {ch} {n1} {dbl.ToString(CultureInfo.InvariantCulture)}".Split(' ');
 
+// Converto tudo de novo, praticando a posição dos vetores.
 string nome = vet[0];
 char sexo = char.Parse (vet[1]);
 int idade = int.Parse (vet[2]);
 double altura = double.Parse (vet[3], CultureInfo.InvariantCulture);
 
+// OUTPUTS Resultados
 System.Console.WriteLine(nome);
 System.Console.WriteLine(sexo);
 System.Console.WriteLine(idade);
