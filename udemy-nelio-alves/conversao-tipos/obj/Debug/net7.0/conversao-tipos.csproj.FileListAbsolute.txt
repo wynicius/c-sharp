@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\bin\Debug\net7.0\conversao-tipos.exe
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\bin\Debug\net7.0\conversao-tipos.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\bin\Debug\net7.0\conversao-tipos.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\bin\Debug\net7.0\conversao-tipos.dll
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\bin\Debug\net7.0\conversao-tipos.pdb
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.dll
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\refint\conversao-tipos.dll
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.pdb
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\conversao-tipos.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\conversao-tipos\obj\Debug\net7.0\ref\conversao-tipos.dll
