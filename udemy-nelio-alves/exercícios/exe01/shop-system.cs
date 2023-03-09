@@ -11,7 +11,7 @@ System.Console.WriteLine("Digite o valor da peça 1: ");
 
 double fValue1 = hMany1 * value1;
 
-System.Console.WriteLine("Digite o cógido da peça 2: ");
+System.Console.WriteLine("Digite o código da peça 2: ");
     int code2 = int.Parse(Console.ReadLine());
 
 System.Console.WriteLine("Digite quantas peças 2 serão: ");
