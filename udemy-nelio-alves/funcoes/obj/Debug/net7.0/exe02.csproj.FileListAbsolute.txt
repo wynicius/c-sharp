@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\bin\Debug\net7.0\exe02.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\bin\Debug\net7.0\exe02.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\bin\Debug\net7.0\exe02.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\bin\Debug\net7.0\exe02.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\bin\Debug\net7.0\exe02.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\refint\exe02.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\exe02.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\funcoes\obj\Debug\net7.0\ref\exe02.dll

@@ -1,5 +1,5 @@
 ﻿namespace Course {
-    class Program {
+    class Funcao {
         static void Main(string[] args) {
 
             Console.WriteLine("Digite três números:");

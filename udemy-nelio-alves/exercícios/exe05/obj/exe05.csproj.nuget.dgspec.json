@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\funcoes\\exe02.csproj": {}
+    "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercícios\\exe05\\exe05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\funcoes\\exe02.csproj": {
+    "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercícios\\exe05\\exe05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\funcoes\\exe02.csproj",
-        "projectName": "exe02",
-        "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\funcoes\\exe02.csproj",
+        "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercícios\\exe05\\exe05.csproj",
+        "projectName": "exe05",
+        "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercícios\\exe05\\exe05.csproj",
         "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\funcoes\\obj\\",
+        "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercícios\\exe05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config"

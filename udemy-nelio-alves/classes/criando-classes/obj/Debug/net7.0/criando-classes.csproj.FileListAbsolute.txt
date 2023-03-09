@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\bin\Debug\net7.0\criando-classes.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\bin\Debug\net7.0\criando-classes.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\bin\Debug\net7.0\criando-classes.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\bin\Debug\net7.0\criando-classes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\bin\Debug\net7.0\criando-classes.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\refint\criando-classes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\criando-classes.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\criando-classes\obj\Debug\net7.0\ref\criando-classes.dll
