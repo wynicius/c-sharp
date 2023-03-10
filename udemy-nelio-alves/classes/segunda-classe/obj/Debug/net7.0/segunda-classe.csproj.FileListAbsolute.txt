@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\bin\Debug\net7.0\segunda-classe.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\bin\Debug\net7.0\segunda-classe.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\bin\Debug\net7.0\segunda-classe.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\bin\Debug\net7.0\segunda-classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\bin\Debug\net7.0\segunda-classe.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\refint\segunda-classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\segunda-classe.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\classes\segunda-classe\obj\Debug\net7.0\ref\segunda-classe.dll
