@@ -8,6 +8,7 @@ public class Estoque {
 
     public int Quantidade;
 
+
     public double ValorTotalEmEstoque() {
         return Preco * Quantidade;
     }

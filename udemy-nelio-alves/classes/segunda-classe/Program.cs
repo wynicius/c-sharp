@@ -23,6 +23,7 @@ System.Console.WriteLine($"Dados atualizados: {X}");
 
 System.Console.Write("Digite o número de produtos a serem removidos ao estoque: ");
 qte = int.Parse(Console.ReadLine());
+
 X.RemoverProdutos(qte);
 
 System.Console.WriteLine($"Dados atualizados: {X}");
