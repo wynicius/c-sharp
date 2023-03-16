@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\bin\Debug\net7.0\exe09-classesestaticas.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\bin\Debug\net7.0\exe09-classesestaticas.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\bin\Debug\net7.0\exe09-classesestaticas.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\bin\Debug\net7.0\exe09-classesestaticas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\bin\Debug\net7.0\exe09-classesestaticas.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\refint\exe09-classesestaticas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\exe09-classesestaticas.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe09-classesestaticas\obj\Debug\net7.0\ref\exe09-classesestaticas.dll
