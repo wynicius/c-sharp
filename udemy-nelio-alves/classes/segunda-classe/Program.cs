@@ -1,29 +1,39 @@
 ﻿using System;
 using System.Globalization;
 
-Estoque X = new Estoque();
-
 System.Console.WriteLine("Entre os dados do produto:");
 System.Console.Write("Nome: ");
-    X.Nome = Console.ReadLine();
+    string nome = Console.ReadLine();
 
 System.Console.Write("Preço: ");
-    X.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 System.Console.WriteLine("Quantidade no estoque: ");
-    X.Quantidade = int.Parse(Console.ReadLine());
+    int quantidade = int.Parse(Console.ReadLine());
 
-System.Console.WriteLine("Dados do produto: " + X);
+// Construtor com argumentos
+Estoque p = new Estoque(nome,preco,quantidade);
+// Construtor padrão
+Estoque p2 = new Estoque();
+// Construtor de Sintaxe Alternativa para inicializar valores.
+Estoque p3 = new Estoque{
+    Nome = "TV", 
+    Preco = 500.00, 
+    Quantidade = 20
+};
+
+System.Console.WriteLine("Dados do produto: " + p);
 
 System.Console.Write("Digite o número de produtos a serem adicionados ao estoque: ");
-int qte = int.Parse(Console.ReadLine());
-X.AdicionarProdutos(qte);
+    int qte = int.Parse(Console.ReadLine());
 
-System.Console.WriteLine($"Dados atualizados: {X}");
+p.AdicionarProdutos(qte);
+
+System.Console.WriteLine($"Dados atualizados: {p}");
 
 System.Console.Write("Digite o número de produtos a serem removidos ao estoque: ");
 qte = int.Parse(Console.ReadLine());
 
-X.RemoverProdutos(qte);
+p.RemoverProdutos(qte);
 
-System.Console.WriteLine($"Dados atualizados: {X}");
+System.Console.WriteLine($"Dados atualizados: {p}");

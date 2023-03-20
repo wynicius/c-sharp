@@ -8,6 +8,21 @@ public class Estoque {
 
     public int Quantidade;
 
+    // Abaixo seguem contrutores padrões e de sobrecarga.
+
+    public Estoque() {
+    }
+
+    public Estoque(string nome, double preco, int quantidade) {
+        Nome = nome;
+        Preco = preco;
+        Quantidade = quantidade;
+    }
+
+    public Estoque(string nome, double preco) {
+        Nome = nome;
+        Preco = preco;
+    }
 
     public double ValorTotalEmEstoque() {
         return Preco * Quantidade;

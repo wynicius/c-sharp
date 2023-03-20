@@ -1,6 +1,3 @@
-using System;
-using System.Globalization;
-
 class CambioDeMoeda {
 
     public static double Iof = 0.06; // IOF de 6%
