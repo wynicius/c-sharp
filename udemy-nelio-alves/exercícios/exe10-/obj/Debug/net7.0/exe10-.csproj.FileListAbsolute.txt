@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe10-\obj\Debug\net7.0\exe10-.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe10-\obj\Debug\net7.0\exe10-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe10-\obj\Debug\net7.0\exe10-.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe10-\obj\Debug\net7.0\exe10-.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercícios\exe10-\obj\Debug\net7.0\exe10-.csproj.CoreCompileInputs.cache

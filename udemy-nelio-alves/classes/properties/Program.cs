@@ -17,7 +17,7 @@ Estoque p = new Estoque(nome,preco,quantidade);
 Estoque p2 = new Estoque();
 // Construtor de Sintaxe Alternativa para inicializar valores.
 // Estoque p3 = new Estoque{
-//     Nome = "TV", 
+//     _nome = "TV", 
 //     Preco = 500.00, 
 //     Quantidade = 20
 // };

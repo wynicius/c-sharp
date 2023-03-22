@@ -2,28 +2,36 @@ using System;
 using System.Globalization;
 
 public class Estoque {
-    private string Nome;
 
-    private double Preco;
+    // Atributos Privados
+    private string _nome;
 
-    private int Quantidade;
+    // Propriedades Autoimplementadas
+    public double Preco { get; set; }
 
-    // Abaixo seguem contrutores padrões e de sobrecarga.
+    public int Quantidade { get; set; }
 
+    // Construtores
     public Estoque() {
     }
 
     public Estoque(string nome, double preco, int quantidade) {
-        Nome = nome;
+        _nome = nome;
         Preco = preco;
         Quantidade = quantidade;
     }
 
-    public Estoque(string nome, double preco) {
-        Nome = nome;
-        Preco = preco;
+    // Propriedades Customizadas
+    private string Nome {
+        get { return _nome; }
+        set {
+            if (value != null && value.Length > 1) {
+                _nome = value;
+            }
+        }
     }
 
+    // Métodos
     public double ValorTotalEmEstoque() {
         return Preco * Quantidade;
     }
