@@ -1,32 +1,38 @@
-public class Banco {
+using System;
+using System.Globalization;
 
-    private int _aC;
+public class ContaBancaria {
 
-    private string _name;
+    public int NumeroConta {get; private set; }
 
-    public double Deposit {get; set; }
+    public string Titular {get; set; }
 
-    public registerWithDeposit (int accountNumber, string name, int deposit) {
-        _aC = accountNumber;
-        _name = name;
-        Deposit = deposit;
+    public double Saldo {get; private set; }
+
+
+
+    public ContaBancaria(int numeroConta, string titular) {
+        NumeroConta = numeroConta;
+        Titular = titular;
     }
 
-    private int _aC {
-        get { return _aC; }
-        set { 
-            if (_aC == 0 && value != 0 ) {
-                _aC = value;
-            }
-        }
+    public ContaBancaria(int numeroConta, string titular, double depositoInicial) : this(numeroConta, titular) {
+        Deposito(depositoInicial);
     }
 
-    private string _name {
-        get { return _name; }
-        set { 
-            if (value != null && value.Length > 3) {
-                _name = value;
-            }
-        }
+    public void Deposito(double quantia) {
+        Saldo += quantia;
     }
+
+    public void Saque(double quantia) {
+        Saldo -= quantia + 5.0;
+    }
+
+    public override string ToString() {
+        return "Conta " + NumeroConta +
+        ", Titular: " + Titular +
+        ", Saldo: R$ " + Saldo.ToString("F2", CultureInfo.GetCultureInfo("pt-BR"));
+    }
+
+
 }

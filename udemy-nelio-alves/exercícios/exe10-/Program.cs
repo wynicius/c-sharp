@@ -1,24 +1,56 @@
-﻿System.Console.Write("Entre com o número da conta: ");
-int accountNumber = Console.ReadLine();
+﻿using System;
+using System.Globalization;
+
+ContaBancaria conta;
+
+System.Console.Write("Entre com o número da conta: ");
+int numeroConta = int.Parse(Console.ReadLine());
 
 System.Console.Write("Entre com o nome titular da conta: ");
-string name = Console.ReadLine();
+string titular = Console.ReadLine();
 
-System.Console.Write("Haverá depósito inicial (s/n)? ");
+char depositCondition = ' ';
 
-if (depositCondition == s) {
+do {
+    System.Console.Write("Haverá depósito inicial (s/n)? ");
+    string input = Console.ReadLine();
+    if (string.IsNullOrEmpty(input)) {
+        System.Console.WriteLine("Entrada inválida! Digite 's' para sim ou 'n' para não.");
+        continue;
+    }
+    depositCondition = char.ToLower(input[0]);
+
+    if (depositCondition != 's' && depositCondition != 'n') {
+        System.Console.WriteLine("Entrada inválida! Digite 's' para sim ou 'n' para não.");
+    }
+}   while (depositCondition != 's' && depositCondition != 'n');
+
+if (depositCondition == 's') {
     System.Console.Write("Entre com o valor do depósito: ");
-    int depositCondition = Console.ReadLine();
-    
-    Banco registerWithDeposit = new Banco(accountNumber, name, depositCondition);
-} 
+    double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    conta = new ContaBancaria(numeroConta, titular, depositoInicial);
+}
 else {
-    Banco registerNoDeposit = new Banco(accountNumber, name);
+    conta = new ContaBancaria(numeroConta, titular);
 }
 
+Console.WriteLine();
+Console.WriteLine("Dados da conta:");
+System.Console.WriteLine(conta);
 
 
+System.Console.Write("Entre um valor para depósito: ");
+double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta.Deposito(quantia);
 
+System.Console.WriteLine("Dados da conta atualizados: ");
+System.Console.WriteLine(conta);
 
+System.Console.WriteLine("Entre um valor para saque: ");
+quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta.Saque(quantia);
 
+System.Console.WriteLine("Dados da conta atualizados: ");
+System.Console.WriteLine(conta);
 
