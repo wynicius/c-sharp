@@ -21,4 +21,4 @@ for (int i = 0; i < n; i++) {
     averageHeight = sum / heights.Length;
 }
 
-System.Console.WriteLine("The average height is: " + averageHeight.ToString("F2", CultureInfo.InvariantCulture));
+System.Console.WriteLine("AVERAGE HEIGHT = " + averageHeight.ToString("F2", CultureInfo.InvariantCulture));

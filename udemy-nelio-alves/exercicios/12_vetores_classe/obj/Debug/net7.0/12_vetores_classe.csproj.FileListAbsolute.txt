@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\bin\Debug\net7.0\12_vetores_classe.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\bin\Debug\net7.0\12_vetores_classe.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\bin\Debug\net7.0\12_vetores_classe.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\bin\Debug\net7.0\12_vetores_classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\bin\Debug\net7.0\12_vetores_classe.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\refint\12_vetores_classe.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\12_vetores_classe.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_vetores_classe\obj\Debug\net7.0\ref\12_vetores_classe.dll
