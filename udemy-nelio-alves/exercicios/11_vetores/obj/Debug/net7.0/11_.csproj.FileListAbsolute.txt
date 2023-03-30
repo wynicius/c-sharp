@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\bin\Debug\net7.0\11_.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\bin\Debug\net7.0\11_.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\bin\Debug\net7.0\11_.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\bin\Debug\net7.0\11_.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\bin\Debug\net7.0\11_.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\refint\11_.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\11_.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\11_vetores\obj\Debug\net7.0\ref\11_.dll
