@@ -33,6 +33,4 @@ public class ContaBancaria {
         ", Titular: " + Titular +
         ", Saldo: R$ " + Saldo.ToString("F2", CultureInfo.GetCultureInfo("pt-BR"));
     }
-
-
 }
