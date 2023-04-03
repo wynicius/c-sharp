@@ -14,7 +14,6 @@ class Program {
         Console.Write("Possuímos 10 quartos vagos. Quantos quartos deseja alugar? ");
 
         try {
-
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++) {
@@ -31,7 +30,7 @@ class Program {
 
                 Console.WriteLine("É um prazer tê-lo conosco Sr(a). " + estudante + ".");
             }
-            System.Console.WriteLine("\nQuartos ocupados: ");
+            System.Console.WriteLine("\n" + "Quartos ocupados: ");
             for (int i = 0; i < 10; i++) {
                 if (quartos[i] != null) {
                     System.Console.WriteLine(i + ": " + quartos[i]);
