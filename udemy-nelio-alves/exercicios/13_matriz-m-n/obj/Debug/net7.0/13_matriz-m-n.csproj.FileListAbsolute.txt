@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\bin\Debug\net7.0\13_matriz-m-n.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\bin\Debug\net7.0\13_matriz-m-n.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\bin\Debug\net7.0\13_matriz-m-n.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\bin\Debug\net7.0\13_matriz-m-n.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\bin\Debug\net7.0\13_matriz-m-n.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\refint\13_matriz-m-n.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\13_matriz-m-n.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\13_matriz-m-n\obj\Debug\net7.0\ref\13_matriz-m-n.dll

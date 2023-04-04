@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercicios\\13_vetores\\13_vetores.csproj",
-      "projectName": "13_vetores",
-      "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercicios\\13_vetores\\13_vetores.csproj",
+      "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\matrizes\\matrizes.csproj",
+      "projectName": "matrizes",
+      "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\matrizes\\matrizes.csproj",
       "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\exercicios\\13_vetores\\obj\\",
+      "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\matrizes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config"

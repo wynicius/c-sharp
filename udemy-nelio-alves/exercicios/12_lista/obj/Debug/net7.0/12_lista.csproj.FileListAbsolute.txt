@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\bin\Debug\net7.0\12_lista.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\bin\Debug\net7.0\12_lista.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\bin\Debug\net7.0\12_lista.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\bin\Debug\net7.0\12_lista.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\bin\Debug\net7.0\12_lista.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\refint\12_lista.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\12_lista.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\exercicios\12_lista\obj\Debug\net7.0\ref\12_lista.dll

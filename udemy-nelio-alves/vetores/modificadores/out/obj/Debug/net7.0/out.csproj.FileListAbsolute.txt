@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\bin\Debug\net7.0\out.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\bin\Debug\net7.0\out.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\bin\Debug\net7.0\out.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\bin\Debug\net7.0\out.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\bin\Debug\net7.0\out.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\refint\out.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\out.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\out\obj\Debug\net7.0\ref\out.dll

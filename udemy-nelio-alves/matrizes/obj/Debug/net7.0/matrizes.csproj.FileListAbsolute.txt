@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\bin\Debug\net7.0\matrizes.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\bin\Debug\net7.0\matrizes.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\bin\Debug\net7.0\matrizes.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\bin\Debug\net7.0\matrizes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\bin\Debug\net7.0\matrizes.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\refint\matrizes.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\matrizes.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\matrizes\obj\Debug\net7.0\ref\matrizes.dll

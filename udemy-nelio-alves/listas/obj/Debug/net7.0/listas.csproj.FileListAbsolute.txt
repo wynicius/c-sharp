@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\bin\Debug\net7.0\listas.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\bin\Debug\net7.0\listas.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\bin\Debug\net7.0\listas.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\bin\Debug\net7.0\listas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\bin\Debug\net7.0\listas.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\refint\listas.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\listas.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\listas\obj\Debug\net7.0\ref\listas.dll
