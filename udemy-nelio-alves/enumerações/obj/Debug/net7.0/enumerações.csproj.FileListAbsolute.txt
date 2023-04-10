@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\bin\Debug\net7.0\enumerações.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\bin\Debug\net7.0\enumerações.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\bin\Debug\net7.0\enumerações.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\bin\Debug\net7.0\enumerações.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\bin\Debug\net7.0\enumerações.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\refint\enumerações.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\enumerações.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\enumerações\obj\Debug\net7.0\ref\enumerações.dll
