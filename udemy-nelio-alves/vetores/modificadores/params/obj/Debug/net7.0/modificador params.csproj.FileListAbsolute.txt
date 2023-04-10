@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\bin\Debug\net7.0\modificador params.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\bin\Debug\net7.0\modificador params.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\bin\Debug\net7.0\modificador params.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\bin\Debug\net7.0\modificador params.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\bin\Debug\net7.0\modificador params.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\refint\modificador params.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\modificador params.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\vetores\modificadores\params\obj\Debug\net7.0\ref\modificador params.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificador params\\modificador params.csproj",
+      "projectUniqueName": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificadores\\params\\modificador params.csproj",
       "projectName": "modificador params",
-      "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificador params\\modificador params.csproj",
+      "projectPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificadores\\params\\modificador params.csproj",
       "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificador params\\obj\\",
+      "outputPath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\udemy-nelio-alves\\vetores\\modificadores\\params\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config"
