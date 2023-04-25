@@ -12,7 +12,7 @@ Order order = new Order
 
 Console.WriteLine(order);
 
-string txt = OrderStatus.PendingPayment .ToString();
+string txt = OrderStatus.PendingPayment.ToString();
 
 System.Console.WriteLine(txt);
 
