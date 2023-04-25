@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\bin\Debug\net7.0\ex-composicao-002.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\bin\Debug\net7.0\ex-composicao-002.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\bin\Debug\net7.0\ex-composicao-002.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\bin\Debug\net7.0\ex-composicao-002.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\bin\Debug\net7.0\ex-composicao-002.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\refint\ex-composicao-002.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ex-composicao-002.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\Entities\ex-composicao-002\obj\Debug\net7.0\ref\ex-composicao-002.dll
