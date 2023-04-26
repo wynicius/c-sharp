@@ -1,4 +1,4 @@
-using System;
+using System.Text;
 
 public class Order
 {
@@ -27,8 +27,32 @@ public class Order
     }
     public double Total()
     {
-        double total = ??????????
+        return Items.Sum(item => item.SubTotal());
     }
 
-    // Estudar StingBuilder!!
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder();
+        sb.Append("Order moment: ");
+        sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+        sb.Append("Order status: ");
+        sb.AppendLine(Status.ToString());
+        sb.Append("Client: ");
+        sb.Append(Client.Name);
+        sb.Append($" ({Client.BirthDate.ToString()})");
+        sb.Append(" - ");
+        sb.AppendLine(Client.Email);
+        sb.AppendLine("Order items:");
+        double sum = 0;
+        foreach (OrderItem item in Items)
+        {
+            sb.AppendLine(item.ToString());
+            double subTotal = item.SubTotal();
+            sum += + subTotal;
+            ;
+            
+        }
+        return sb.ToString()
+        + "Total: " + sum;
+    }
 }

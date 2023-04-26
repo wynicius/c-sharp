@@ -13,7 +13,7 @@ Client client = new Client(clientName, clientEmail, clientBDate);
 
 Console.WriteLine("Enter the order's data: ");
 Console.Write("Status :");
-OrderStatus status = new OrderStatus(OrderStatus.Parse(Console.ReadLine()));
+OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
 DateTime moment = DateTime.Now;
 Order order = new Order(moment, status, client);
@@ -21,7 +21,7 @@ Order order = new Order(moment, status, client);
 Console.Write("How many items to this order? ");
 int n = int.Parse(Console.ReadLine());
 
-// Loop do product's data
+// Loop dos dados dos produtos
 for (int i = 0; i < n; i++)
 {
     Console.WriteLine($"Enter #{i + 1} item data: ");
@@ -29,12 +29,16 @@ for (int i = 0; i < n; i++)
     string prodName = Console.ReadLine();
     Console.Write("Product Price: ");
     double prodPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Product product = new Product(prodName, prodPrice);
+
     Console.Write("Quantity: ");
     int prodQnt = int.Parse(Console.ReadLine());   
-
-    Product product = new Product(prodName, prodPrice, prodQnt);
+    
     OrderItem items = new OrderItem(prodQnt, prodPrice, product);
     order.AddItems(items);
 }
 
+System.Console.WriteLine();
 System.Console.WriteLine(order);
+System.Console.WriteLine(order.Total());

@@ -1,3 +1,4 @@
+using System.Globalization;
 public class OrderItem
 {
     public int Quantity { get; set; }
@@ -19,6 +20,15 @@ public class OrderItem
         return Quantity * Price;
     }
 
-    // ToString
+    public override string ToString()
+    {
+        return Product.Name
+            + ", $"
+            + Price.ToString("F2", CultureInfo.InvariantCulture)
+            + ", Quantity: "
+            + Quantity
+            + ", Subtotal: $"
+            + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
+    }
 
 }
