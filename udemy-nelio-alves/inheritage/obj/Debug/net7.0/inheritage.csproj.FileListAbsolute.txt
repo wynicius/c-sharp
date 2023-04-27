@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\obj\Debug\net7.0\inheritage.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\obj\Debug\net7.0\inheritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\obj\Debug\net7.0\inheritage.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\obj\Debug\net7.0\inheritage.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\obj\Debug\net7.0\inheritage.csproj.CoreCompileInputs.cache
