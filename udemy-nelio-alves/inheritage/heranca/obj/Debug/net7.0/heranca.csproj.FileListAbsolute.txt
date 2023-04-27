@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\bin\Debug\net7.0\heranca.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\bin\Debug\net7.0\heranca.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\bin\Debug\net7.0\heranca.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\bin\Debug\net7.0\heranca.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\bin\Debug\net7.0\heranca.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\refint\heranca.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\heranca.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\obj\Debug\net7.0\ref\heranca.dll

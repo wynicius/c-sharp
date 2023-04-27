@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\bin\Debug\net7.0\sobreposicao.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\bin\Debug\net7.0\sobreposicao.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\bin\Debug\net7.0\sobreposicao.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\bin\Debug\net7.0\sobreposicao.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\bin\Debug\net7.0\sobreposicao.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\refint\sobreposicao.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\sobreposicao.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\sobreposicao\obj\Debug\net7.0\ref\sobreposicao.dll
