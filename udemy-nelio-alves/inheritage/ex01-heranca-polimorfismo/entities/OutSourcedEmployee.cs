@@ -16,14 +16,4 @@ public class OutSourcedEmployee : Employee
     {
         return (AdditionalCharge * 1.1) + base.Payment();
     }
-
-    public override string ToString()
-    { 
-        foreach (OutSourcedEmployee outSourcedEmployee in outSourcedEmployee.Name)
-        {
-            return Name
-            + " - $ "
-            + Payment().ToString("F2", CultureInfo.InvariantCulture);
-        };
-    }
 }

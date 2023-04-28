@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = heranca
-build_property.ProjectDir = c:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\heranca\
+build_property.RootNamespace = ex01_heranca_polimorfismo
+build_property.ProjectDir = C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex01-heranca-polimorfismo\
