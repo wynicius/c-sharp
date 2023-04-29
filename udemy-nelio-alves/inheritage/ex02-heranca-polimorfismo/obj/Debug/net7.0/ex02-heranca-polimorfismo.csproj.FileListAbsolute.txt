@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\bin\Debug\net7.0\ex02-heranca-polimorfismo.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\bin\Debug\net7.0\ex02-heranca-polimorfismo.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\bin\Debug\net7.0\ex02-heranca-polimorfismo.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\bin\Debug\net7.0\ex02-heranca-polimorfismo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\bin\Debug\net7.0\ex02-heranca-polimorfismo.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\refint\ex02-heranca-polimorfismo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ex02-heranca-polimorfismo.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\inheritage\ex02-heranca-polimorfismo\obj\Debug\net7.0\ref\ex02-heranca-polimorfismo.dll

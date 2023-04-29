@@ -1,10 +1,11 @@
 ﻿using System.Globalization;
 
+
+List<Employee> list = new List<Employee>();
+
 Console.WriteLine("------------------");
 Console.WriteLine("------Hello!------");
 Console.WriteLine("------------------");
-List<OutSourcedEmployee> outlist = new List<OutSourcedEmployee>();
-List<Employee> list = new List<Employee>();
 
 Console.Write("Enter the number of employees: ");
 int n = int.Parse(Console.ReadLine());
@@ -32,7 +33,9 @@ for (int i = 0; i < n; i++)
     {
         list.Add(new Employee(name, hours, valuePerHour));
     }
-
+    
+    Console.WriteLine();
+    System.Console.WriteLine();
     Console.WriteLine("PAYMENTS:");
         foreach (Employee emp in list)
         {
