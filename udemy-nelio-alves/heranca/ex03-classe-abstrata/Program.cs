@@ -35,6 +35,7 @@ for (int i = 0; i < n; i++)
     }
 }
 
+Console.WriteLine();
 Console.WriteLine("SHAPE AREAS:");
 foreach (Shape area in shape)
 {
