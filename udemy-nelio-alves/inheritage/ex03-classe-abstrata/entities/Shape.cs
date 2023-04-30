@@ -11,8 +11,6 @@ public abstract class Shape
         Color = color;
     }
 
-    public virtual double Area()
-    {
-        return 0;
-    }
+    public abstract double Area();
+    
 }

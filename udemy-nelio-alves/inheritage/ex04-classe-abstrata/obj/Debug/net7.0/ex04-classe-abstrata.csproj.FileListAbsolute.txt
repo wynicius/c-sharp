@@ -1,0 +1,15 @@
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.csproj.AssemblyReference.cache
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.AssemblyInfo.cs
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.csproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\bin\Debug\net7.0\ex04-classe-abstrata.exe
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\bin\Debug\net7.0\ex04-classe-abstrata.deps.json
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\bin\Debug\net7.0\ex04-classe-abstrata.runtimeconfig.json
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\bin\Debug\net7.0\ex04-classe-abstrata.dll
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\bin\Debug\net7.0\ex04-classe-abstrata.pdb
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.dll
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\refint\ex04-classe-abstrata.dll
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.pdb
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ex04-classe-abstrata.genruntimeconfig.cache
+C:\Users\User1\Documents\GitHub\c-sharp\udemy-nelio-alves\inheritage\ex04-classe-abstrata\obj\Debug\net7.0\ref\ex04-classe-abstrata.dll
