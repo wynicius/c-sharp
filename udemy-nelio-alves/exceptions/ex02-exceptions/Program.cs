@@ -15,7 +15,7 @@ try
 
     Account acc1 = new Account(number, holder, initialBalance, withDrawLimit);
     Console.WriteLine();
-    
+
     Console.Write("Enter amount for withdraw: "); 
     double withdrawAmount = double.Parse(Console.ReadLine());
     acc1.WithDraw(withdrawAmount);
@@ -34,6 +34,3 @@ catch (Exception e)
 {
     Console.WriteLine("Error: " + e.Message);
 }
-
-
-
