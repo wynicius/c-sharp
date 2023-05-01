@@ -14,7 +14,7 @@ public class Company : TaxPayer
 
     public override double Tax()
     {
-        if (NumberOfEmployees <= 10)
+        if (NumberOfEmployees < 10)
         {
             return AnualIncome * 0.16;
         }

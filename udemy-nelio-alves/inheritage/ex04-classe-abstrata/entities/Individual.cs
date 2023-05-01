@@ -14,13 +14,13 @@ public class Individual : TaxPayer
 
     public override double Tax()
     {
-        if (AnualIncome <= 20000)
+        if (AnualIncome < 20000)
         {
-            return (AnualIncome * 0.15) - (HealthExpenditures * 0.5);
+            return AnualIncome * 0.15 - HealthExpenditures * 0.5;
         }
         else
         {
-            return (AnualIncome * 0.25) - (HealthExpenditures * 0.5);
+            return AnualIncome * 0.25 - HealthExpenditures * 0.5;
         }
     }
 }
