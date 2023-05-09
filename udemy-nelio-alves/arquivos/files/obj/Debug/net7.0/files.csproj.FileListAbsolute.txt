@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\bin\Debug\net7.0\files.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\bin\Debug\net7.0\files.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\bin\Debug\net7.0\files.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\bin\Debug\net7.0\files.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\bin\Debug\net7.0\files.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\refint\files.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\files.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\files\obj\Debug\net7.0\ref\files.dll

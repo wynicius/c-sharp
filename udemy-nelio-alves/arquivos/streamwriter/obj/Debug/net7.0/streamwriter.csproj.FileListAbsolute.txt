@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\bin\Debug\net7.0\streamwriter.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\bin\Debug\net7.0\streamwriter.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\bin\Debug\net7.0\streamwriter.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\bin\Debug\net7.0\streamwriter.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\bin\Debug\net7.0\streamwriter.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\refint\streamwriter.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\streamwriter.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\files-filesinfo-IOException\streamwriter\obj\Debug\net7.0\ref\streamwriter.dll
