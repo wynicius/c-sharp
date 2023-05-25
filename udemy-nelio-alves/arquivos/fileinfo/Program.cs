@@ -10,7 +10,7 @@ class Program
         try 
         {
             FileInfo fileInfo = new FileInfo(sourcePath);
-            fileInfo.CopyTo(targetPath);
+            fileInfo.CopyTo(targetPath); //CopyTo()
             string[] lines = File.ReadAllLines(sourcePath);
             foreach (string line in lines) 
             {

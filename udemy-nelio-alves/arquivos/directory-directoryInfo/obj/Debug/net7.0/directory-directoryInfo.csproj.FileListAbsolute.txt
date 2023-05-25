@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\bin\Debug\net7.0\directory-directoryInfo.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\bin\Debug\net7.0\directory-directoryInfo.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\bin\Debug\net7.0\directory-directoryInfo.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\bin\Debug\net7.0\directory-directoryInfo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\bin\Debug\net7.0\directory-directoryInfo.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\refint\directory-directoryInfo.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\directory-directoryInfo.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\arquivos\directory-directoryInfo\obj\Debug\net7.0\ref\directory-directoryInfo.dll
