@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\services\sem-interface\obj\Debug\net7.0\sem-interface.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\services\sem-interface\obj\Debug\net7.0\sem-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\services\sem-interface\obj\Debug\net7.0\sem-interface.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\services\sem-interface\obj\Debug\net7.0\sem-interface.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\services\sem-interface\obj\Debug\net7.0\sem-interface.csproj.CoreCompileInputs.cache
