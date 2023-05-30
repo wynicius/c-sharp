@@ -2,7 +2,7 @@ using RentACar.Entities;
 
 namespace RentACar.Services
 {
-    public class BrazilTaxService
+    public class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {
