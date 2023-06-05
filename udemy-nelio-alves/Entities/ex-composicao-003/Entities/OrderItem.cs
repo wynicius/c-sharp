@@ -5,9 +5,6 @@ public class OrderItem
     public double Price { get; set; }
     public Product Product { get; set; }
 
-    public OrderItem()
-    {
-    }
     public OrderItem(int quantity, double price, Product product)
     {
         Quantity = quantity;
@@ -30,5 +27,4 @@ public class OrderItem
             + ", Subtotal: $"
             + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
     }
-
 }
