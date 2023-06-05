@@ -18,7 +18,7 @@ public class ContractService
         {
             DateTime dueMonth = (contract.Date).AddMonths(i);
             double sum = _onlinePaymentService.PaymentFee(
-                _onlinePaymentService.Interest(paymentPerInstallment, i)
+                _onlinePaymentService.Interest(basicQuota, i)
             );
             contract.AddInstallment(dueMonth, sum);
         }
