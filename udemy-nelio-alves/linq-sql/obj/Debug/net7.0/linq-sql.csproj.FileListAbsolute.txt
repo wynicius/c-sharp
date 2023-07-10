@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\bin\Debug\net7.0\linq-sql.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\bin\Debug\net7.0\linq-sql.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\bin\Debug\net7.0\linq-sql.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\bin\Debug\net7.0\linq-sql.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\bin\Debug\net7.0\linq-sql.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\refint\linq-sql.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\linq-sql.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\linq-sql\obj\Debug\net7.0\ref\linq-sql.dll

@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\bin\Debug\net7.0\exe_dictionary.exe
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\bin\Debug\net7.0\exe_dictionary.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\bin\Debug\net7.0\exe_dictionary.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\bin\Debug\net7.0\exe_dictionary.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\bin\Debug\net7.0\exe_dictionary.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\refint\exe_dictionary.dll
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.pdb
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\exe_dictionary.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\udemy-nelio-alves\generics\exe_dictionary\obj\Debug\net7.0\ref\exe_dictionary.dll
