@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\bin\Debug\net7.0\desafio_sistemaestacionamento.exe
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\bin\Debug\net7.0\desafio_sistemaestacionamento.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\bin\Debug\net7.0\desafio_sistemaestacionamento.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\bin\Debug\net7.0\desafio_sistemaestacionamento.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\bin\Debug\net7.0\desafio_sistemaestacionamento.pdb
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\refint\desafio_sistemaestacionamento.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.pdb
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\desafio_sistemaestacionamento.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemaestacionamento\obj\Debug\net7.0\ref\desafio_sistemaestacionamento.dll
