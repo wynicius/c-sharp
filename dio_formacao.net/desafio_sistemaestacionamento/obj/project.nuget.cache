@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F4eyZPne3C3Wfm2IuwyDZh5OS4bxVbNxMH+LmOb09Q5oaMtBIiLG7dx8B5+Y7ENZf2UH39fibf59+tZa/jQUvQ==",
+  "dgSpecHash": "17MYpZUjOfMzicHTZViFk2je5TcHLvIMGKLczKlRaTyjns1jKA3GfpkW0B93vGycJuRFY8zZAdZSt0X06SetIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User1\\Desktop\\coding\\c-sharp\\dio_formacao.net\\desafio_sistemaestacionamento\\desafio_sistemaestacionamento.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

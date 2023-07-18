@@ -1,0 +1,9 @@
+{
+  "veiculos": [
+    "DAS-9468",
+    "CJN-8496",
+    "HI9H045"
+  ],
+  "PrecoInicial": 10.0,
+  "PrecoPorHora": 3.50
+}

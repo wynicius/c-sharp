@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
+using System.IO;
+using Newtonsoft.Json;
 
 decimal precoInicial = 10;
 decimal precoPorHora = 3.50m;
@@ -44,4 +46,10 @@ catch (NullReferenceException n)
 catch (Exception e)
 {
     Console.WriteLine("ocorreu um erro: " + e.Message);
+}
+finally
+{
+    string carsParkedFile = JsonConvert.SerializeObject(estacionamento, Formatting.Indented);
+
+    File.WriteAllText("files/cars-parked.json", carsParkedFile);
 }
