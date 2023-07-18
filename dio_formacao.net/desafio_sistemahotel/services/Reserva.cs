@@ -14,9 +14,9 @@ public class Reserva
 
     public void CadastrarHospedes(List<Pessoa> hospedes)
     {
-        if (Hospedes.Count <= Suite.Capacidade)
+        if (hospedes.Count <= Suite.Capacidade)
         {
-            Hospedes.Add(hospedes);
+            Hospedes = hospedes;
         }
         else
         {
@@ -31,7 +31,7 @@ public class Reserva
 
     public int ObterQuantidadeHospedes()
     {
-        if (Hospedes.Count > 0)
+        if (Hospedes.Count == 0)
         {
             throw new NullReferenceException("Não há hospedes neste momento.");
         }
@@ -45,16 +45,14 @@ public class Reserva
 
     public decimal CalcularValorDiaria()
     {
-        decimal valorFinalDiaria = 0.0;
+        decimal valorFinalDiaria = 0M;
         if (DiasReservados >= 10)
         {
-            return valorFinalDiaria = (DiasReservados * Suite.ValorDiaria) * 0.9; // 10% de desconto
+            return valorFinalDiaria = (DiasReservados * Suite.ValorDiaria) * 0.9m; // 10% de desconto
         }
         else
         {
             return valorFinalDiaria = (DiasReservados * Suite.ValorDiaria);
         }
     }
-
-
 }

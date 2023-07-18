@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.AssemblyInfo.cs
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\bin\Debug\net7.0\desafio_sistemahotel.exe
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\bin\Debug\net7.0\desafio_sistemahotel.deps.json
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\bin\Debug\net7.0\desafio_sistemahotel.runtimeconfig.json
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\bin\Debug\net7.0\desafio_sistemahotel.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\bin\Debug\net7.0\desafio_sistemahotel.pdb
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\refint\desafio_sistemahotel.dll
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.pdb
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\desafio_sistemahotel.genruntimeconfig.cache
+C:\Users\User1\Desktop\coding\c-sharp\dio_formacao.net\desafio_sistemahotel\obj\Debug\net7.0\ref\desafio_sistemahotel.dll
